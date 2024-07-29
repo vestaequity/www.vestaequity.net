@@ -1,0 +1,86 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://feeds.transistor.fm/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/vesta-equity" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Vesta Equity</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/vesta-equity</itunes:new-feed-url>
+    <description>Welcome to the "Real Equity Podcast" by Vesta Equity, where the worlds of real estate and cutting-edge technology converge! Our groundbreaking podcast series delves deep into the revolutionary realm of tokenizing real-world assets, a transformative process that empowers real estate investments to thrive in the digital age. Join us as we explore the intricate synergies between real estate, blockchain technology, and asset tokenization, and discuss how this fusion creates unparalleled opportunities for investors.
+
+In each episode, we engage with leading experts, innovative thinkers, and experienced real estate professionals to uncover insights and engage in discussions about blockchain technology, its impact on the real estate sector, and the emerging trends shaping the investment landscape. Whether you're a seasoned real estate investor, a tech enthusiast, or simply curious about the intersection of real estate and technology, the "Real Equity Podcast" is your gateway to understanding how blockchain is redefining real estate ownership and investments. Discover how Vesta Equity stands at the forefront, empowering investors with a transparent, secure, and accessible way to invest in real assets, and learn how you can become a part of this monumental shift in the real estate industry. Join us as we explore the future of real estate!
+
+
+
+
+</description>
+    <copyright>Vesta Equity 2023</copyright>
+    <podcast:guid>a7ac5928-424f-5dad-aa19-4be3925c6fdc</podcast:guid>
+    <podcast:locked owner="podcast@vestaequity.net">no</podcast:locked>
+    <language>en</language>
+    <pubDate>Tue, 17 Oct 2023 12:30:55 -0400</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2023 15:33:53 -0400</lastBuildDate>
+    <link>https://www.vestaequity.net</link>
+    <image>
+      <url>https://images.transistor.fm/file/transistor/images/show/45562/full_1695897804-artwork.jpg</url>
+      <title>Vesta Equity</title>
+      <link>https://www.vestaequity.net</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Vesta Equity</itunes:author>
+    <itunes:image href="https://images.transistor.fm/file/transistor/images/show/45562/full_1695897804-artwork.jpg"/>
+    <itunes:summary>Welcome to the "Real Equity Podcast" by Vesta Equity, where the worlds of real estate and cutting-edge technology converge! Our groundbreaking podcast series delves deep into the revolutionary realm of tokenizing real-world assets, a transformative process that empowers real estate investments to thrive in the digital age. Join us as we explore the intricate synergies between real estate, blockchain technology, and asset tokenization, and discuss how this fusion creates unparalleled opportunities for investors.
+
+In each episode, we engage with leading experts, innovative thinkers, and experienced real estate professionals to uncover insights and engage in discussions about blockchain technology, its impact on the real estate sector, and the emerging trends shaping the investment landscape. Whether you're a seasoned real estate investor, a tech enthusiast, or simply curious about the intersection of real estate and technology, the "Real Equity Podcast" is your gateway to understanding how blockchain is redefining real estate ownership and investments. Discover how Vesta Equity stands at the forefront, empowering investors with a transparent, secure, and accessible way to invest in real assets, and learn how you can become a part of this monumental shift in the real estate industry. Join us as we explore the future of real estate!
+
+
+
+
+</itunes:summary>
+    <itunes:subtitle>Welcome to the "Real Equity Podcast" by Vesta Equity, where the worlds of real estate and cutting-edge technology converge.</itunes:subtitle>
+    <itunes:keywords>real estate, investing, blockchain, tokenization, technology, home equity investments, proptech, fintech, venture capital, real world assets</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Vesta Equity</itunes:name>
+      <itunes:email>podcast@vestaequity.net</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Why Tokenization is the Future of Real Estate Investing</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Why Tokenization is the Future of Real Estate Investing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9e7311d6-f925-435e-9027-854d487f3fa8</guid>
+      <link>https://share.transistor.fm/s/c217b309</link>
+      <description>
+        <![CDATA[<p>Discover how tokenization is revolutionizing the real estate industry and unlocking new opportunities for investors. Hear from industry experts like Andrew Baum, Don Friedman, Paul Dubé, Andrew Bull, &amp; Michael Carpentier.</p><p>Industry experts will discuss the benefits of investment, tokenization, liquidity, fractional ownership, and access to global markets. Learn how blockchain technology is transforming the way we invest and own real estate.</p><p>Whether you're a seasoned investor or just curious about the future of real estate, this event is a must-attend. Gain valuable insights from leading professionals and explore the potential of tokenization in the real estate sector.</p><p>Don't miss out on this opportunity to stay ahead of the curve and learn about the future of real estate investing.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Discover how tokenization is revolutionizing the real estate industry and unlocking new opportunities for investors. Hear from industry experts like Andrew Baum, Don Friedman, Paul Dubé, Andrew Bull, &amp; Michael Carpentier.</p><p>Industry experts will discuss the benefits of investment, tokenization, liquidity, fractional ownership, and access to global markets. Learn how blockchain technology is transforming the way we invest and own real estate.</p><p>Whether you're a seasoned investor or just curious about the future of real estate, this event is a must-attend. Gain valuable insights from leading professionals and explore the potential of tokenization in the real estate sector.</p><p>Don't miss out on this opportunity to stay ahead of the curve and learn about the future of real estate investing.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 28 Sep 2023 07:37:31 -0400</pubDate>
+      <author>Vesta Equity</author>
+      <enclosure url="https://media.transistor.fm/c217b309/bd3d7610.mp3" length="182083763" type="audio/mpeg"/>
+      <itunes:author>Vesta Equity</itunes:author>
+      <itunes:duration>4551</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Discover how tokenization is revolutionizing the real estate industry and unlocking new opportunities for investors. Hear from industry experts like Andrew Baum, Don Friedman, Paul Dubé, Andrew Bull, &amp; Michael Carpentier.</p><p>Industry experts will discuss the benefits of investment, tokenization, liquidity, fractional ownership, and access to global markets. Learn how blockchain technology is transforming the way we invest and own real estate.</p><p>Whether you're a seasoned investor or just curious about the future of real estate, this event is a must-attend. Gain valuable insights from leading professionals and explore the potential of tokenization in the real estate sector.</p><p>Don't miss out on this opportunity to stay ahead of the curve and learn about the future of real estate investing.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>real estate, tokenization, blockchain, real estate investing, Vesta Equity, digital assets, real assets, investment opportunities, real estate trends, blockchain technology, asset tokenization, real estate market, real estate technology, fintech, proptech, cryptocurrency, investment strategies, financial innovation, decentralization, liquidity</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Guest" img="https://images.transistor.fm/file/transistor/images/person/1cd7e4f9-d188-451c-a966-b3d3b9cb70ce/1695898256-image.jpg">Andrew Baum</podcast:person>
+      <podcast:person role="Host" img="https://images.transistor.fm/file/transistor/images/person/f1733794-b47d-43d3-8841-a01dd8a18b5f/1695898195-image.jpg">Britannie Campbell-Turner</podcast:person>
+      <podcast:person role="Guest" img="https://images.transistor.fm/file/transistor/images/person/731d924b-e16c-4426-88d5-8e97768fff2f/1695898492-image.jpg">Don Freidman</podcast:person>
+      <podcast:person role="Guest" img="https://images.transistor.fm/file/transistor/images/person/4c7d25d8-5873-43bd-804b-062e29a424e4/1695898058-image.jpg">Michael Carpentier</podcast:person>
+      <podcast:person role="Guest" img="https://images.transistor.fm/file/transistor/images/person/0fd56813-f3f4-4544-8a46-6ef34305931a/1695898324-image.jpg">Paul Dubé</podcast:person>
+    </item>
+  </channel>
+</rss>

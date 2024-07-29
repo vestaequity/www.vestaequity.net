@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 605 329.64">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #3d405b;
+      }
+
+      .cls-6 {
+        opacity: .05;
+      }
+
+      .cls-7 {
+        fill: #8b8c9d;
+        font-family: Arial-ItalicMT, Arial;
+        font-size: 10px;
+        font-style: italic;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        letter-spacing: .04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-9, .cls-5, .cls-10 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-13 {
+        font-size: 12px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-15 {
+        fill: none;
+        stroke: #efefef;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        font-size: 16.44px;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-8" d="m16,0h573c8.84,0,16,8.09,16,18.06v293.52c0,9.98-7.16,18.06-16,18.06H16c-8.84,0-16-8.09-16-18.06V18.06C0,8.09,7.16,0,16,0Z"/>
+    <path class="cls-4" d="m16,0h573c8.84,0,16,8.09,16,18.06v72.04H0V18.06C0,8.09,7.16,0,16,0Z"/>
+    <rect class="cls-6" y="90.11" width="605" height="29.81"/>
+    <rect class="cls-6" y="150.76" width="605" height="29.81"/>
+    <rect class="cls-6" y="210.13" width="605" height="29.81"/>
+    <rect class="cls-6" y="269.5" width="605" height="29.81"/>
+    <text class="cls-5" transform="translate(62.01 109.7)"><tspan x="0" y="0">Qtr</tspan><tspan x="-3.57" y="30">1</tspan><tspan class="cls-1" x="3.11" y="30"> </tspan><tspan x="6.22" y="30">Y</tspan><tspan class="cls-14" x="14.23" y="30">r</tspan><tspan x="18.23" y="30">.</tspan><tspan x="-3.57" y="60">2</tspan><tspan class="cls-1" x="3.11" y="60"> </tspan><tspan x="6.22" y="60">Y</tspan><tspan class="cls-14" x="14.23" y="60">r</tspan><tspan x="18.23" y="60">.</tspan><tspan x="-3.57" y="90">3</tspan><tspan class="cls-1" x="3.11" y="90"> </tspan><tspan x="6.22" y="90">Y</tspan><tspan class="cls-14" x="14.23" y="90">r</tspan><tspan x="18.23" y="90">.</tspan><tspan x="-3.57" y="120">5</tspan><tspan class="cls-1" x="3.11" y="120"> </tspan><tspan x="6.22" y="120">Y</tspan><tspan class="cls-14" x="14.23" y="120">r</tspan><tspan x="18.23" y="120">.</tspan><tspan x="-3.57" y="150">7</tspan><tspan class="cls-1" x="3.11" y="150"> </tspan><tspan x="6.22" y="150">Y</tspan><tspan class="cls-14" x="14.23" y="150">r</tspan><tspan x="18.23" y="150">.</tspan><tspan x="-6.91" y="180">10</tspan><tspan class="cls-1" x="6.44" y="180"> </tspan><tspan x="9.56" y="180">Y</tspan><tspan class="cls-14" x="17.56" y="180">r</tspan><tspan x="21.57" y="180">.</tspan></text>
+    <text class="cls-13" transform="translate(137.77 69.7)"><tspan class="cls-9"><tspan x="0" y="0">S&amp;</tspan><tspan class="cls-1" x="16.67" y="0">P</tspan><tspan x="24.46" y="0" xml:space="preserve"> 500</tspan></tspan><tspan class="cls-3"><tspan x="8.23" y="40">-4.9%</tspan></tspan><tspan class="cls-3"><tspan x="4.9" y="70">-15.5%</tspan></tspan><tspan class="cls-3"><tspan x="10.23" y="100">4.8%</tspan></tspan><tspan class="cls-3"><tspan x="10.23" y="130">8.2%</tspan></tspan><tspan class="cls-3"><tspan x="10.23" y="160">9.2%</tspan></tspan><tspan class="cls-3"><tspan class="cls-12" x="7.34" y="190">1</tspan><tspan x="13.12" y="190">1.4%</tspan></tspan><tspan class="cls-3"><tspan class="cls-12" x="7.34" y="220">1</tspan><tspan x="13.12" y="220">1.7%</tspan></tspan></text>
+    <text class="cls-13" transform="translate(229.55 69.7)"><tspan class="cls-9"><tspan x="0" y="0">NAREIT</tspan></tspan><tspan class="cls-3"><tspan x="3.32" y="40">-10.8%</tspan></tspan><tspan class="cls-3"><tspan x="3.32" y="70">-16.3%</tspan></tspan><tspan class="cls-3"><tspan x="8.66" y="100">4.9%</tspan></tspan><tspan class="cls-3"><tspan x="6.66" y="130">-1.1%</tspan></tspan><tspan class="cls-3"><tspan x="8.66" y="160">4.0%</tspan></tspan><tspan class="cls-3"><tspan x="8.66" y="190">6.1%</tspan></tspan><tspan class="cls-3"><tspan x="8.66" y="220">7.0%</tspan></tspan></text>
+    <text class="cls-7" transform="translate(241.92 318.05)"><tspan x="0" y="0">Data as of September 2022 </tspan></text>
+    <text class="cls-10" transform="translate(123.52 37.37)"><tspan class="cls-11" x="0" y="0">INVESTMENT RETURNS B</tspan><tspan class="cls-2" x="219.6" y="0">Y</tspan><tspan class="cls-16" x="230.92" y="0"> </tspan><tspan class="cls-11" x="235.54" y="0">ASSET CLASS</tspan></text>
+    <text class="cls-13" transform="translate(332.82 69.7)"><tspan class="cls-9"><tspan x="0" y="0">NPI</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="40">0.4%</tspan></tspan><tspan class="cls-3"><tspan x="-7.01" y="70">20.5%</tspan></tspan><tspan class="cls-3"><tspan x="-7.01" y="100">18.0%</tspan></tspan><tspan class="cls-3"><tspan x="-7.01" y="130">12.1%</tspan></tspan><tspan class="cls-3"><tspan x="-7.01" y="160">10.3%</tspan></tspan><tspan class="cls-3"><tspan x="-7.01" y="190">10.1%</tspan></tspan><tspan class="cls-3"><tspan class="cls-12" x="-6.57" y="220">1</tspan><tspan x="-.78" y="220">1.7%</tspan></tspan></text>
+    <text class="cls-13" transform="translate(418.66 69.7)"><tspan class="cls-9"><tspan class="cls-14" x="0" y="0">T</tspan><tspan x="6.67" y="0">-Bill</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="40">0.4%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="70">0.6%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="100">0.3%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="130">0.5%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="160">1.1%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="190">0.9%</tspan></tspan><tspan class="cls-3"><tspan x=".99" y="220">0.6%</tspan></tspan></text>
+    <text class="cls-13" transform="translate(514.07 69.7)"><tspan class="cls-9"><tspan x="0" y="0">CPI</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="40">0.2%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="70">8.2%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="100">6.8%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="130">5.0%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="160">3.8%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="190">3.2%</tspan></tspan><tspan class="cls-3"><tspan x="-3.67" y="220">2.5%</tspan></tspan></text>
+    <line class="cls-15" y1="120.43" x2="605" y2="120.43"/>
+    <line class="cls-15" y1="90.62" x2="605" y2="90.62"/>
+    <line class="cls-15" y1="150.25" x2="605" y2="150.25"/>
+    <line class="cls-15" y1="180.06" x2="605" y2="180.06"/>
+    <line class="cls-15" y1="209.87" x2="605" y2="209.87"/>
+    <line class="cls-15" y1="239.69" x2="605" y2="239.69"/>
+    <line class="cls-15" y1="269.5" x2="605" y2="269.5"/>
+    <line class="cls-15" y1="299.32" x2="605" y2="299.32"/>
+  </g>
+</svg>
