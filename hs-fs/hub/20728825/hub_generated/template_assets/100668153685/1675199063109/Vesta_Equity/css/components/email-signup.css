@@ -1,17 +1,18 @@
 * {
     box-sizing: border-box;
-  }
+}
 
-  .market-updates-signup {
+.market-updates-signup {
     margin-top: 31px;
     margin-bottom: 65px;
-  }
+}
 
-  .market-updates-signup-form {
-    width: 100% margin: 30px 0 0 0;
-  }
+.market-updates-signup-form {
+    width: 100%
+    margin: 30px 0 0 0;
+}
 
-  .input {
+.input {
     display: inline-block;
     border: 0;
     border-radius: 5px;
@@ -21,9 +22,9 @@
     width: 70%;
     padding: 12px 25px;
     margin-right: 20px;
-  }
+}
 
-  button.subscribe-button {
+button.subscribe-button {
     display: inline-block;
     background-color: #312940;
     border: 0;
@@ -34,25 +35,25 @@
     height: 42px;
     width: 25%;
     padding: 12px 25px;
-  }
+}
 
-  .signup-message {
+.signup-message {
     color: #f00;
-  }
+}
 
-  @media only screen and (max-width : 599px) {
+@media only screen and (max-width: 599px) {
 
     .input {
-      display: block;
-      width: 100%;
-      padding: 12px 10px;
-      margin-bottom: 10px;
+        display: block;
+        width: 100%;
+        padding: 12px 10px;
+        margin-bottom: 10px;
     }
 
     button.subscribe-button {
-      display: block;
-      padding: 12px 25px;
-      width: 175px;
+        display: block;
+        padding: 12px 25px;
+        width: 175px;
     }
 
-  }
+}
